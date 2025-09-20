@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deepak Nishad - Tech Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <h1>Deepak Nishad</h1>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="hero">
+        <h2>Hello, I am Deepak Nishad</h2>
+        <p>Software Developer | Hacker | Student</p>
+    </section>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am a software hacker and student, passionate about building cool tech projects and learning new technologies.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project-list">
+            <div class="project">
+                <h3>Project 1</h3>
+                <p>Description of project 1.</p>
+            </div>
+            <div class="project">
+                <h3>Project 2</h3>
+                <p>Description of project 2.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Instagram: <a href="https://instagram.com/its_deepak_nishad_09" target="_blank">@its_deepak_nishad_09</a></p>
+        <p>Email: <a href="mailto:deepaknishad@example.com">deepaknishad@example.com</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Deepak Nishad</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
